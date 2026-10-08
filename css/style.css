@@ -24,4 +24,5 @@
 footer {
     background:linear-gradient(to right, var(--color1) 0%, var(--color2) 100%);
     background-size: contain;
+    margin-top: 100px;
 }
