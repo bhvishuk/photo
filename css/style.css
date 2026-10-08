@@ -1,0 +1,20 @@
+.banner {
+    background-image: url(https://cdn.sportmaster.ru/upload/content/mediahab/prod/3ce54640-7600-48b3-bbb6-51a3cf4479c9.jpg);
+    width: 100%;
+    height: auto;
+    min-height: 950px;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: 100% 700px;
+
+}
+
+:root {
+    --color1:  #0c712c5c;
+    --color2: #18be58a7;
+}
+
+footer {
+    background:linear-gradient(to right, var(--color1) 0%, var(--color2) 100%);
+    background-size: contain;
+}
