@@ -8,3 +8,13 @@
     background-size: 100% 700px;
 
 }
+
+:root {
+    --color1:  #0c712c5c;
+    --color2: #18be58a7;
+}
+
+footer {
+    background:linear-gradient(to right, var(--color1) 0%, var(--color2) 100%);
+    background-size: contain;
+}
